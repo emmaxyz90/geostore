@@ -1,7 +1,7 @@
 ![Build Status](https://github.com/geosolutions-it/geostore/actions/workflows/CI.yml/badge.svg)
 [![Coverage Status](https://coveralls.io/repos/github/geosolutions-it/geostore/badge.svg?branch=master)](https://coveralls.io/github/geosolutions-it/geostore?branch=master)
 
-[GeoStore](https://github.com/geosolutions-it/geostore) is an open source Java enterprise application for storing, searching and retrieving data on the fly.
+[GeoStore](https://github.com/geosolutions-it/geostore) is an open source Java enterprise application for storing, searching and retrieving data on the fly..
 
 GeoStore performs authentication internally (auth framework shall be pluggable), and internal authorization rules grant permissions on single Resources or whole Categories.
 
